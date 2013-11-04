@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2013-11-04T12:22:33.980-05:00"
+        cq:lastModifiedBy="admin"
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Design for dead simple template"
+        sling:resourceType="wcm/core/components/designer">
+        <dead-simple jcr:primaryType="nt:unstructured">
+            <the-parsys
+                jcr:lastModified="{Date}2013-11-04T12:22:33.975-05:00"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys"
+                components="[/libs/foundation/components/image,/libs/foundation/components/text]">
+                <section jcr:primaryType="nt:unstructured"/>
+            </the-parsys>
+        </dead-simple>
+    </jcr:content>
+</jcr:root>

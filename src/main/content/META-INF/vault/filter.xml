@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workspaceFilter version="1.0">
-    <filter root="/apps/bruce"/>
+    <filter root="/apps/bruce/components/dead-simple"/>
+    <filter root="/apps/bruce/phonegap"/>
+    <filter root="/apps/bruce/templates/dead-simple"/>
+    <filter root="/content/bruce/app/app-content"/>
+    <filter root="/content/bruce/sync/app-sync"/>
+    <filter root="/etc/designs/bruce/dead-simple"/>
+    <filter root="/content/dam/cqcon-village/basel_sunset.jpg"/>
 </workspaceFilter>

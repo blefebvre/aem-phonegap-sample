@@ -1,0 +1,12 @@
+<widget id="com.brucelefebvre.sample" version="0.0.1">
+    <name>Simple App</name>
+    <description>
+        Very basic demo app in response to a forum post
+    </description>
+    <author>
+        Bruce Lefebvre
+    </author>
+    <content src="content/bruce/app/app-content.html" />
+    <preference name="Fullscreen" value="false" />
+    <preference name="WebViewBounce" value="false" />
+</widget>
