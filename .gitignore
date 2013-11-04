@@ -6,3 +6,4 @@ src/main/content/jcr_root/content/dam/.content.xml
 src/main/content/jcr_root/content/dam/cqcon-village/.content.xml
 src/main/content/jcr_root/etc/.content.xml
 src/main/content/jcr_root/etc/designs/.content.xml
+target/
