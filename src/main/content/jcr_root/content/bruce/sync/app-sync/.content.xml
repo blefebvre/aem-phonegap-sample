@@ -3,4 +3,4 @@
     jcr:primaryType="cq:ContentSyncConfig"
     sling:resourceType="contentsync/config"
     authorizable="everyone"
-    updateUser="author"/>
+    updateUser="admin"/>
